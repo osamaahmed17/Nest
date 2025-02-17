@@ -83,7 +83,7 @@
       "additionalProperties": false
     }
   },
-  
+
   "additionalProperties": false,
   "description": "OWASP chapter schema.",
   "properties": {
